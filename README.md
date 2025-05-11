@@ -1,4 +1,4 @@
-# WebSocket Implementation with Ping Feature
+# Project for easier use of WebSockets
 
 ## Overview
 
